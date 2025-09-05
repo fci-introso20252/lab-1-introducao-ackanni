@@ -1,0 +1,41 @@
+total 96
+drwxrwxrwx+ 2 codespace root      4096 Sep  4 18:53 .
+drwxrwxrwx+ 7 codespace root      4096 Sep  4 18:48 ..
+-rw-rw-rw-  1 codespace root       315 Sep  4 16:50 .gitkeep
+-rw-rw-rw-  1 codespace codespace    2 Sep  4 18:51 ex10_count.txt
+-rw-rw-rw-  1 codespace codespace  241 Sep  4 18:51 ex10_pipe.txt
+-rw-rw-rw-  1 codespace codespace   33 Sep  4 18:51 ex10_sort.txt
+-rw-rw-rw-  1 codespace codespace 1049 Sep  4 18:52 ex11_sistema.txt
+-rw-rw-rw-  1 codespace codespace 3832 Sep  4 18:52 ex12_processos.txt
+-rw-rw-rw-  1 codespace codespace 1219 Sep  4 18:52 ex13_historico.txt
+-rw-rw-rw-  1 codespace codespace 1819 Sep  4 18:53 ex14_ajuda.txt
+-rw-rw-rw-  1 codespace codespace   76 Sep  4 18:46 ex1_pwd.txt
+-rw-rw-rw-  1 codespace codespace  501 Sep  4 18:46 ex2_ls_detalhado.txt
+-rw-rw-rw-  1 codespace codespace   33 Sep  4 18:46 ex2_ls_exemplos.txt
+-rw-rw-rw-  1 codespace codespace   59 Sep  4 18:46 ex2_ls_simples.txt
+-rw-rw-rw-  1 codespace codespace  244 Sep  4 18:52 ex3_navegacao.txt
+-rw-rw-rw-  1 codespace codespace  308 Sep  4 18:48 ex4_criacao.txt
+-rw-rw-rw-  1 codespace codespace   79 Sep  4 18:49 ex5_escrita.txt
+-rw-rw-rw-  1 codespace codespace  935 Sep  4 18:50 ex6_copia.txt
+-rw-rw-rw-  1 codespace codespace  944 Sep  4 18:50 ex7_mover.txt
+-rw-rw-rw-  1 codespace codespace 1590 Sep  4 18:51 ex8_cat.txt
+-rw-rw-rw-  1 codespace codespace  302 Sep  4 18:51 ex8_head.txt
+-rw-rw-rw-  1 codespace codespace  148 Sep  4 18:51 ex8_tail.txt
+-rw-rw-rw-  1 codespace codespace   35 Sep  4 18:51 ex8_wc.txt
+-rw-rw-rw-  1 codespace codespace 1176 Sep  4 18:51 ex9_grep.txt
+-rw-rw-rw-  1 codespace codespace    0 Sep  4 18:53 verificacao_final.txt
+22
+meu_diretorio/
+├── arquivo_renomeado.txt
+├── estrutura.txt
+├── multiplas.txt
+├── primeiro.txt
+├── subdir1
+│   ├── arquivo2.txt
+│   ├── origem.txt
+│   ├── subdir2
+│   ├── teste1.txt
+│   └── teste2.txt
+└── teste1.txt
+
+3 directories, 9 files

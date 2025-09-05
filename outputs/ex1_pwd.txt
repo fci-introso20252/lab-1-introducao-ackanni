@@ -1,0 +1,3 @@
+/workspaces/lab-1-introducao-ackanni
+codespace
+Thu Sep  4 18:46:36 UTC 2025

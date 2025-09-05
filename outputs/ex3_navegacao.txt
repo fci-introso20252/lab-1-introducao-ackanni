@@ -1,0 +1,6 @@
+/workspaces/lab-1-introducao-ackanni/exemplos
+/workspaces/lab-1-introducao-ackanni
+/workspaces/lab-1-introducao-ackanni/docs
+/workspaces/lab-1-introducao-ackanni/outputs
+/workspaces/lab-1-introducao-ackanni
+/workspaces/lab-1-introducao-ackanni

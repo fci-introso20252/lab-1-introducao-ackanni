@@ -1,7 +1,7 @@
 # 📝 Relatório do Laboratório 1 - Introdução ao Linux
 
-**Nome:** [Seu nome aqui]  
-**RA:** [Seu RA aqui]  
+**Nome:** André Cintra Kanni  
+**RA:** 10738062  
 
 ---
 
@@ -25,19 +25,19 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Qual foi o comando mais útil que você aprendeu? Por quê?**
 
 ```
-[Sua resposta aqui]
+pwd, porque começa o código
 ```
 
 **2. Qual comando você achou mais difícil de entender? Por quê?**
 
 ```
-[Sua resposta aqui]
+Os de buscar arquivos, achei os mais complicados de escrita
 ```
 
 **3. Você conseguiu completar todos os exercícios? Se não, quais dificuldades encontrou?**
 
 ```
-[Sua resposta aqui]
+Sim
 ```
 
 ---
@@ -49,21 +49,21 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Liste 3 diferenças principais entre usar Windows e Linux que você notou:**
 
 ```
-1. [Primeira diferença]
-2. [Segunda diferença]
-3. [Terceira diferença]
+1. No Linux os comandos são diretamente no terminal
+2. A estrutura dos comandos são diferentes
+3. Comandos mais diretos no linux
 ```
 
 **2. Para tarefas do dia a dia, qual sistema você prefere? Por quê?**
 
 ```
-[Sua resposta aqui]
+Windows, pois já estou acostumado e acho mais fácil de interagir.
 ```
 
 **3. Em que situações o Linux seria mais vantajoso que o Windows?**
 
 ```
-[Sua resposta aqui]
+Quando você precisa de controle sobre o sistema, já que pode acessar vários comandos diretamente no terminal.
 ```
 
 ---
@@ -75,21 +75,21 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Por que é importante para um profissional de Sistemas de Informação conhecer Linux?**
 
 ```
-[Sua resposta aqui]
+Pois o Linux é amplamente usado por diversas empresas em servidores e bancos de dados, além de disponibilizar maior controle do programador sobre o sistma.
 ```
 
 **2. Como o conhecimento de comandos Linux pode ajudar na gestão de TI de uma empresa?**
 
 ```
-[Sua resposta aqui]
+O conhecimento de uso do Linux é vital considerando seu uso por diversas empresas; o domínio dele permite melhorar a eficiência na automação de tarefas, gerenciamnto de arquivos e processos, etc.
 ```
 
 **3. Cite 3 aplicações práticas do Linux no ambiente empresarial:**
 
 ```
-1. [Primeira aplicação]
-2. [Segunda aplicação]
-3. [Terceira aplicação]
+1. Servidores de arquivos
+2. Bancos ed dados
+3. Hospedagem de sites
 ```
 
 ---
@@ -101,24 +101,24 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Quantos arquivos você criou no diretório `outputs/`?**
 
 ```
-Total de arquivos: _____
+Total de arquivos: __15___
 ```
 
 **2. Qual foi o tamanho total do diretório `meu_diretorio` que você criou?**
 
 ```bash
 # Use o comando: du -sh meu_diretorio/
-Tamanho: _____
+Tamanho: __40k___
 ```
 
 **3. Liste os 5 comandos que você mais usou durante o laboratório:**
 
 ```
-1. _____
-2. _____
-3. _____
-4. _____
-5. _____
+1. __ls___
+2. __la___
+3. __cat___
+4. __pwd___
+5. _echo____
 ```
 
 ---
@@ -130,13 +130,13 @@ Tamanho: _____
 **1. Você já tinha usado Git antes? Se sim, em que contexto?**
 
 ```
-[Sua resposta aqui]
+Não
 ```
 
 **2. Qual a importância do versionamento de código para empresas?**
 
 ```
-[Sua resposta aqui - mínimo 3 linhas]
+Para empresas, o versionamento de código garante controle sobre o desenvolvimento de projetos, redução de erros e melhor trabalho em equipe.
 ```
 
 ---
@@ -148,13 +148,13 @@ Tamanho: _____
 **1. Que tipo de tarefas você poderia automatizar usando comandos Linux?**
 
 ```
-[Sua resposta aqui - cite pelo menos 2 exemplos]
+Cópia de arquivos, movimentação de arquivos, backup de dados, instalação de programas, etc.
 ```
 
 **2. Você consideraria usar Linux como sistema operacional principal? Por quê?**
 
 ```
-[Sua resposta aqui]
+Sim, uma vez que ele é mais seguro e personalizável, quando se pensa em atividades mais complexas. Para atividades mais simples e cotidianas, o windows ainda é preferível.
 ```
 
 ---
@@ -164,13 +164,13 @@ Tamanho: _____
 **O que você achou mais interessante no laboratório?**
 
 ```
-[Sua resposta aqui]
+Usar o terminal para controlar o sistema.
 ```
 
 **O que poderia ser melhorado para próximos labs?**
 
 ```
-[Sua resposta aqui]
+Talvez mais discussão em sala.
 ```
 
 ---
@@ -179,10 +179,10 @@ Tamanho: _____
 
 Antes de enviar, verifique:
 
-- [ ] Preenchi todas as seções do relatório
-- [ ] Completei todos os exercícios em EXERCICIOS.md
-- [ ] Salvei todos os outputs na pasta outputs/
-- [ ] Criei o diretório meu_diretorio com os arquivos solicitados
-- [ ] Fiz git add, commit e push
+- [x ] Preenchi todas as seções do relatório
+- [ x] Completei todos os exercícios em EXERCICIOS.md
+- [ x] Salvei todos os outputs na pasta outputs/
+- [ x] Criei o diretório meu_diretorio com os arquivos solicitados
+- [ x] Fiz git add, commit e push
 
 ---
